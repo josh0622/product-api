@@ -1,0 +1,101 @@
+{
+    "products":[
+        {
+            "id":1,
+            "productName":"Audi01",
+            "brand":"Audi",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"
+        },
+
+        {
+            "id":2,
+            "productName":"Toyota01",
+            "brand":"Toyota",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"
+        },
+
+        {
+            "id":3,
+            "productName":"Toyota02",
+            "brand":"Toyota",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"
+        },
+
+        {
+            "id":4,
+            "productName":"BMW01",
+            "brand":"BMW",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"  
+        },
+
+        {
+            "id":5,
+            "productName":"Ford01",
+            "brand":"Ford",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"
+        },
+
+        {
+            "id":6,
+            "productName":"Acura01",
+            "brand":"Acura",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"   
+        },
+
+        {
+            "id":7,
+            "productName":"Chevrolet01",
+            "brand":"Chevrolet",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m" 
+        },
+
+        {
+            "id":8,
+            "productName":"BMW02",
+            "brand":"BMW",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":9,
+            "productName":"Acura02",
+            "brand":"Acura",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":10,
+            "productName":"Buick01",
+            "brand":"Buick",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":11,
+            "productName":"Buick02",
+            "brand":"Buick",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":12,
+            "productName":"Ford02",
+            "brand":"Ford",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":13,
+            "productName":"Ferrari01",
+            "brand":"Ferrari",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        },
+
+        {
+            "id":14,
+            "productName":"Ferrari02",
+            "brand":"Ferrari",
+            "description":"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad m"    
+        }
+    ]
+}
